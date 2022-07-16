@@ -1,0 +1,92 @@
+body {
+    background: #202124;
+    background-image: url("https://img.freepik.com/vetores-premium/fundo-digital-de-matriz-verde-codigo-de-computador-binario_47243-763.jpg?w=2000")
+}
+
+header {
+    text-align: center;
+    color: #00e33d;
+    background-color: purple;
+    font-size: 40px;
+    padding: 20px 0;
+    border: 0;
+    background-image: url("")
+}
+
+.div-inicial {
+    background: #202124;
+    margin-inline: 200px;
+    border: 1px solid #506266;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.divisao {
+    background: #202124;
+    margin-inline: 200px;
+    border: 1px solid #506266;
+}
+
+.div-ultima {
+    background: #202124;
+    margin-inline: 200px;
+    border: 1px solid #506266;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.titulos {
+    text-align: center;
+    color: #00e33d;
+    font-size: 35px;
+}
+
+p strong {
+    color: #00e33d;
+}
+
+p    {
+    font-size: 20px;
+    text-align: center;
+    color: #dbd9d9;
+}
+
+.projetos {
+    position: absolute;
+    color: white;
+    left: 300px;
+}
+
+.lista {
+    position: relative;
+    margin-left: 180px;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 20px;
+    color:  #dbd9d9;
+}
+
+.beneficios {
+    font-size: 30px;
+    color: #00e33d;
+}
+
+
+table {
+    text-align: center;
+    position: relative;
+    margin-left: 520px;
+    font-size: 25px;
+    color: purple;
+}
+
+.imagem {
+    width: 1462px;
+    height: 500px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+
